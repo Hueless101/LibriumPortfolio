@@ -18,8 +18,5 @@ Now, not much was accomplished during this time, as I had only a couple months o
 
 - Magic Demonstration(Fireball, Energy Blast)  
 
-[![Image from Gyazo](https://i.gyazo.com/e3e6da03ac5a15ece32c7b9c5c4947d5.gif)](https://gyazo.com/e3e6da03ac5a15ece32c7b9c5c4947d5)
-    
 
-
-
+![Sample Gif](https://i.gyazo.com/e3e6da03ac5a15ece32c7b9c5c4947d5.mp4) <img  width="200px">
