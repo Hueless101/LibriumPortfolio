@@ -56,12 +56,30 @@ https://github.com/Hueless101/HuelessRoblox/assets/79019059/e7d6c3fc-44f5-49a2-9
 https://github.com/Hueless101/HuelessRoblox/assets/79019059/3473ac2f-2fd3-4095-9449-8813c9bc74f9
 
 
--Inventory System
+-Inventory System(Sorry for bad UI Design)
+
+
+https://github.com/Hueless101/HuelessRoblox/assets/79019059/8e2593aa-cfb7-44ac-8d71-b0774bbc15e3
+
+
 
 ### 2023(now)
 
--Working on a Floor is Lava game
+-Working on "Floor is Lava"
 
--Working on a Fireball Magic Projetile, similar to the one I did in 2020 but better
+https://github.com/Hueless101/HuelessRoblox/assets/79019059/4f60990c-d56d-48e4-bbe6-66c306a3e6b0
+
+
+
+https://github.com/Hueless101/HuelessRoblox/assets/79019059/0a39fbcc-3d11-43f9-889f-65bdd1e9c94f
+
+
+
+-Working on a Fireball Magic Projetile, similar to the one shown in 2020 but better
+- Also this is my MOST recent project so I'm not done
+
+
+https://github.com/Hueless101/HuelessRoblox/assets/79019059/df955eba-5c48-4e92-ade8-8c2f65a03d83
+
 
  
