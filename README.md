@@ -24,7 +24,9 @@ Now, not much was accomplished during this time, as I had only a couple months o
 - Random RPG Artifacts
 
 
-https://github.com/Hueless101/HuelessRoblox/assets/79019059/190b836d-f90c-4ad4-9649-cf99eea1cbd6
+
+https://github.com/Hueless101/HuelessRBLX/assets/79019059/9cccca86-224a-436e-81bd-55fced3b4871
+
 
 
 ### 2021
@@ -69,8 +71,6 @@ https://github.com/Hueless101/HuelessRoblox/assets/79019059/8e2593aa-cfb7-44ac-8
 
 
 https://github.com/Hueless101/HuelessRBLX/assets/79019059/15b6bb40-edff-46ad-a47e-8af0b66100d1
-
-
 
 
 https://github.com/Hueless101/HuelessRBLX/assets/79019059/0431c1b8-46d8-4d4e-8208-32321afc44b2
