@@ -43,11 +43,14 @@ https://github.com/Hueless101/HuelessRBLX/assets/79019059/0dce8df0-0d9c-4b30-8f8
 
 -Tycoon Template  
 
-https://github.com/Hueless101/HuelessRoblox/assets/79019059/3473ac2f-2fd3-4095-9449-8813c9bc74f9
+
+
+https://github.com/Hueless101/HuelessRBLX/assets/79019059/1df612a6-3fa7-4c13-9b1e-1e40d41ddfd4
+
+
 
 
 -Inventory System(Sorry for bad UI Design)
-
 
 
 https://github.com/Hueless101/HuelessRBLX/assets/79019059/bea18a65-fddd-43eb-8a29-be1cd5dd863b
