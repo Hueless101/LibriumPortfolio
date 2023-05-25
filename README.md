@@ -20,3 +20,29 @@ Now, not much was accomplished during this time, as I had only a couple months o
 
 
 ![Sample Gif](e3e6da03ac5a15ece32c7b9c5c4947d5.gif) 
+
+- Random RPG Artifacts
+
+### 2021
+
+- Unfinished Obby
+
+-Unfinished Rap Battles Game
+
+- FPS System
+
+- Building Game
+
+### 2022 
+
+-Tycoon Template  
+
+-Inventory System
+
+### 2023(now)
+
+-Working on a Floor is Lava game
+
+-Working on a Fireball Magic Projetile, similar to the one I did in 2020 but better
+
+ 
