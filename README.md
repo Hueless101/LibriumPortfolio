@@ -79,7 +79,11 @@ https://github.com/Hueless101/HuelessRoblox/assets/79019059/0a39fbcc-3d11-43f9-8
 - Also this is my MOST recent project so I'm not done
 
 
-https://github.com/Hueless101/HuelessRoblox/assets/79019059/df955eba-5c48-4e92-ade8-8c2f65a03d83
+
+
+https://github.com/Hueless101/HuelessRBLX/assets/79019059/3af970d8-a7d5-4980-b3a7-075176af4b85
+
+
 
 
  
