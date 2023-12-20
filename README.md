@@ -73,7 +73,7 @@ https://github.com/Hueless101/HuelessRBLX/assets/79019059/0431c1b8-46d8-4d4e-820
 
 
 -Working on a Fireball Magic Projetile, similar to the one shown in 2020 but better
-- Also this is my MOST recent project so I'm not done
+- Also this is my MOST recent project so I'm not done(edit: december 2023, I ditched this proj btw)
 
 
 
