@@ -1,0 +1,56 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  *{
+    margin:0;
+    padding:0;
+  }
+  
+  
+  .navbar{
+    display:flex;
+    background-color: #2e2e2e;
+    padding:10px;
+    justify-content: space-between;
+   
+    font-family: 'Roboto', sans-serif;
+    
+    flex-direction: row;
+    
+  }
+  
+  
+  .logo{
+    background-color: #000000;
+    font-size: 4vh;
+    height:fit-content;
+    width: fit-content;
+    
+  }
+  
+  .logo p1{
+    
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+  }
+  
+  .logo p1 a{
+    color:white;
+    text-decoration: none;
+  }
+  
+  .navbar ul{
+    border: solid white;
+    
+  }
+  .navbar ul li{
+    display: inline-block;
+    margin: 0px 10px;
+  }
+  .navbar ul li a{
+    text-decoration: none;
+    color: white;
+    
+  }
